@@ -8,7 +8,7 @@ This project implements a pipeline to **extract, normalise, and report adverse e
 ```
 ICON-Capstone-AE-Monitoring/
 ├── data/
-│   └── Asprin_trail.xlsx        # sample dataset
+│   └── Asprin_trial.xlsx        # sample dataset
 │
 ├── notebooks/
 │   └── ICON_Capstone.ipynb      # main analysis notebook
